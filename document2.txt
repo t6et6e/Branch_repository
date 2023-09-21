@@ -110,3 +110,6 @@ int main()
 	printArray(arr, arr_size);
 	return 0;
 }
+
+def PrintHello():
+    print("Hello Python world")
