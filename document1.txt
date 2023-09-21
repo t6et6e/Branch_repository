@@ -40,3 +40,6 @@ def PrintHello():
 
 def PrintIntroduce():
     print("안녕하세요. 저는 김태형입니다.")
+
+def PrintAnything():
+    print("아무말이나 출력하는 함수1")
