@@ -37,3 +37,6 @@ print(quicksort(0, len(example)-1, example))
 
 def PrintHello():
     print("hello Python World")
+
+def PrintIntroduce():
+    print("안녕하세요. 저는 김태형입니다.")
