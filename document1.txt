@@ -11,7 +11,7 @@ def partition(l, r, nums):
     return ptr
  
 #브랜치 병합 충돌 확인을 위한 작업입니다.
-#이 작업은 메인브랜치에서 진행되었습니다.
+#충돌 부분 수정 작업을 진행했습니다.
  
  
 def quicksort(l, r, nums):
